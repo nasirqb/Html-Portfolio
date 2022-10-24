@@ -1,0 +1,147 @@
+body, html{
+    height: 100%;
+    margin: 0%;
+}
+
+body{
+    background-color: rgb(194, 194, 197);
+}
+nav li{
+    display: inline;
+    margin: 50px;
+    }
+
+    nav ul{
+        background-color: black;
+        margin: 0%;
+        list-style-type: none;
+        width: 100%;
+        padding: 15px;
+     }
+
+    nav{
+     display: block;   
+     color: white;
+    }
+
+    nav a{
+        color: blue;
+        text-decoration: none;
+     }
+
+     nav a:hover{
+        color: white;
+     }
+
+   .nells-image{
+    background-image:url(../images/buddha\ 1.jpg);
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    position: relative;
+   }  
+
+   .nells-text{
+    color: white;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    }
+
+    #main{
+        width: 75%;
+        float: left;
+        height: 100%;
+        padding-left: 20px;
+        padding-top: 20px;
+     }
+
+     #side{
+        width: 20%;
+        float: right;
+        height: 100%;
+        padding: 20px;
+
+    }
+
+    #profile-image{
+        width: 150px;
+        border-radius: 50%;
+        border: 5px solid grey;
+    }
+
+    #profile{
+        text-align: center;
+    }
+
+    .side-article ul{
+        text-align: center;
+      list-style-type: none;
+      padding-left: 0%;
+    }
+
+    .side-article2{
+        text-align: center;
+        list-style-type: none;
+        padding: 0%;
+    }
+
+    .side-article{
+        background-color: gray;
+        text-align: center;
+    }
+
+    .main-atrticle{
+        background-color: lightgray;
+    }
+
+    .side-article2{
+        background-color: grey;
+        text-align: center;
+    }
+
+    footer{
+        width: 100%;
+        background-color:black;
+        height:5uh;
+        margin-top: 0px;
+    }
+    
+    footer div{
+        text-align: center;
+        color: blue;
+    }
+
+    footer hr{
+        margin-top: 0px;
+        height: 12px;
+        border: 0px;
+        box-shadow: inset 0 12px -12px white;
+    }
+
+    
+
+main{
+    overflow: auto;
+}
+
+    .side-article, .main-atrticle, .side-article2{
+
+    }
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
